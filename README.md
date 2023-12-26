@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 Currently studying Python, HTML, CSS, JavaScript, and PHP.
+- 🎓 Currently studying Python, HTML, CSS, JavaScript, PHP, and rust.
 - 🚀 Exploring the fascinating world of web development and programming.
 - 💡 Always eager to learn and work on exciting projects.
 - 🌱 Growing every day as a developer.
