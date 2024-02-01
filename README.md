@@ -23,13 +23,14 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 Currently studying Python, HTML, CSS, JavaScript, PHP, and rust.
+- 🎓 Currently studying Python, HTML, CSS, JavaScript, PHP.
 - 🚀 Exploring the fascinating world of web development and programming.
 - 💡 Always eager to learn and work on exciting projects.
 - 🌱 Growing every day as a developer.
 
 - 💻 **Programming Languages**: Python, JavaScript, PHP
 - 🌐 **Web Development**: HTML, CSS, JavaScript
+- 🐉 **PHP**: Laravel, Bitrix, Wordpress
 - 🐍 **Python Libraries**: NumPy, pandas, Flask, Django, FASTAPI, aiogram, pytelegrambotapi, selenium, bs4, requests...
 - 📚 **Learning**: Always staying up-to-date with the latest web technologies.
 
