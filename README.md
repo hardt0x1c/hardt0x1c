@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 
-- 💼 **Senior Backend Developer** с фокусом на PHP-экосистему
-- 🎯 Специализируюсь на разработке высоконагруженных веб-приложений
-- 🚀 Постоянно изучаю новые технологии и подходы
+- 💼 **Senior Backend Developer** focused on PHP ecosystem
+- 🎯 Building high-performance web applications
+- 🚀 Always exploring new technologies and approaches
 
 - 💻 **Backend**: PHP (Bitrix, Laravel, Symfony, Yii)
 - 🌐 **Frontend**: Nuxt.js, Vue.js, React
