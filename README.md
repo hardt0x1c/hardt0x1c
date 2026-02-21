@@ -23,16 +23,14 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 Currently studying Python, HTML, CSS, JavaScript, PHP.
-- 🚀 Exploring the fascinating world of web development and programming.
-- 💡 Always eager to learn and work on exciting projects.
-- 🌱 Growing every day as a developer.
+- 💼 **Senior Backend Developer** с фокусом на PHP-экосистему
+- 🎯 Специализируюсь на разработке высоконагруженных веб-приложений
+- 🚀 Постоянно изучаю новые технологии и подходы
 
-- 💻 **Programming Languages**: Python, JavaScript, PHP
-- 🌐 **Web Development**: HTML, CSS, JavaScript
-- 🐉 **PHP**: Laravel, Bitrix, Wordpress
-- 🐍 **Python Libraries**: NumPy, pandas, Flask, Django, FASTAPI, aiogram, pytelegrambotapi, selenium, bs4, requests...
-- 📚 **Learning**: Always staying up-to-date with the latest web technologies.
+- 💻 **Backend**: PHP (Bitrix, Laravel, Symfony, Yii)
+- 🌐 **Frontend**: Nuxt.js, Vue.js, React
+- 🐍 **Also**: Python (Flask, Django, FastAPI)
+- 🛠️ **Tools**: Docker, Git, CI/CD
 
 ## Let's Code Together!
 
